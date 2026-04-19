@@ -2,7 +2,6 @@
 
 ## Overview
 A text-based (CLI) implementation of the classic murder mystery board game **Cluedo (Clue)**,
-built in Python for NJIT CS670 Project 2, Part 1.
 ---
 
 ## Prerequisites
