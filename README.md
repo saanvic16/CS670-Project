@@ -21,7 +21,7 @@ python3 --version
 ### 1. Clone or download the project
 If using Git:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/saanvic16/CS670-Project.git
 ```
 Or unzip the submitted folder.
 
